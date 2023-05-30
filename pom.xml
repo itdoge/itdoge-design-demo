@@ -12,6 +12,9 @@
         <module>itdoge-design-demo-1-00</module>
         <module>itdoge-design-demo-1-01</module>
         <module>itdoge-design-demo-1-02</module>
+        <module>itdoge-design-demo-2-00</module>
+        <module>itdoge-design-demo-2-01</module>
+        <module>itdoge-design-demo-2-02</module>
     </modules>
 
     <properties>
