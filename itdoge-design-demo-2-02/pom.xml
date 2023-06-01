@@ -10,6 +10,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itdoge-design-demo-2-02</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>com.itdoge</groupId>
+            <artifactId>itdoge-design-demo-2-00</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
